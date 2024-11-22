@@ -5,7 +5,7 @@
   </div>
 
 ## Artist
-
+  An aspiring artist who seeks to express the world through a unique perspective and share inspiration and emotion
 <!--
 **dohoon-test/dohoon-test** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
