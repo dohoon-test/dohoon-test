@@ -9,8 +9,11 @@
 
 ## Interest
 ✎ Painting: I am fascinated by the process of conveying stories and emotions through color, creating depth within a two-dimensional space.
+
 ✎ Drawing: I enjoy using lines and shadows to capture intricate details and translate ideas into visual form.
+
 ✎ Sculpture: I am intrigued by exploring three-dimensional forms and the materiality of mediums, creating expressive works in physical space.
+
 ✎ Sketching: I value the spontaneity of recording quick ideas and see it as a foundational step in the creative process.
 
 
