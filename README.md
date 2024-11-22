@@ -36,6 +36,7 @@ Here are some ideas to get you started:
  <div align=center>
 	 
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EC%9D%B4%EB%8F%84%ED%9B%88-y6w)](https://www.youtube.com/@%EC%9D%B4%EB%8F%84%ED%9B%88-y6w)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0921danieldaniel@gmail.com)](mailto:0921danieldaniel@gmail.com)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dohoon-test)](https://github.com/anuraghazra/github-readme-stats)
 
 
   </div>
