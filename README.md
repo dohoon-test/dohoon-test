@@ -1,3 +1,9 @@
+ <div align=right>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdohoon-test&count_bg=%23FF007B&title_bg=%23555555&icon=angellist.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  </div>
+
 ## Artist
 
 <!--
@@ -14,11 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <div align=right>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdohoon-test&count_bg=%23FF007B&title_bg=%23555555&icon=angellist.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-  </div>
 
  <div align=center>
 	 
