@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
-   [[히트](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F도훈-테스트&카운트_bg=%2379C83D&제목_bg=%23555555&아이콘=angellist.svg&아이콘_컬러=%23E7E7E7&제목=히트&edge_flat=false)](https://hits.seeyoufarm.com)
+ <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdohoon-test&count_bg=%2379C83D&title_bg=%23555555&icon=angellist.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+	
+  </div>
